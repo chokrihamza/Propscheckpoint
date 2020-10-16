@@ -1,0 +1,15 @@
+[1016/211304.911:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1016/220533.113:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Tentative d’accès à un processus en cours d’arrêt. (0xc000010a)
+[1016/220533.253:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[1016/220533.253:ERROR:process_info.cc(551)] ReadProcessData failed
+[1016/220533.113:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Tentative d’accès à un processus en cours d’arrêt. (0xc000010a)
+[1016/220533.253:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[1016/220533.253:ERROR:process_info.cc(551)] ReadProcessData failed
+[1016/220533.269:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1016/220533.269:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1016/220533.269:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1016/220533.269:ERROR:exception_snapshot_win.cc(99)] thread ID 10164 not found in process
+[1016/220533.269:ERROR:exception_snapshot_win.cc(99)] thread ID 9040 not found in process
+[1016/220533.269:ERROR:exception_snapshot_win.cc(99)] thread ID 5184 not found in process
+[1016/220533.269:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1016/220533.269:ERROR:exception_snapshot_win.cc(99)] thread ID 508 not found in process
